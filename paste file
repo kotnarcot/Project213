@@ -1,0 +1,17 @@
+<div class="col-4 pt-1">
+        <a class="link-secondary" href="#">Subscribe</a>
+      </div>
+------------------------------------------------------------
+
+  <div class="nav-scroller py-1 mb-2">
+    <nav class="nav d-flex justify-content-between">
+      <a class="p-2 link-secondary" href="#">главная</a>
+      <a class="p-2 link-secondary" href="#">что делаем сейчас</a>
+      <a class="p-2 link-secondary" href="#">места</a>
+      <a class="p-2 link-secondary" href="#">подробное описание</a>
+      <a class="p-2 link-secondary" href="#">связь</a>
+    </nav>
+  </div>
+------------------------------------------------------------
+
+
